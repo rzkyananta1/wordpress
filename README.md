@@ -1,1 +1,1 @@
-# wordpress ady anjay
+# wordpress
